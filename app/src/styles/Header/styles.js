@@ -24,6 +24,7 @@ const headerStyles = {
     },
     appbarGridContainer: {
         container: true,
+        // xs: 'auto',
         width: '100%',
         height: '84px',
         display: 'flex',
