@@ -3,7 +3,7 @@ import ICONS from "@/components/icons/icons";
 
 const missionsStyles = {
     main:{
-        background:missionsTheme.palette.primary, 
+        background: missionTheme.palette.primary, 
         height:'2008px', 
         width:'100%', 
         alignItems:'center', 
