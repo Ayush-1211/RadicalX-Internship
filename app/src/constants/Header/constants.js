@@ -1,5 +1,5 @@
 import ICONS from "../../components/icons/icons";
-import ROUTES from "../../routes/routes";
+import ROUTES from "../routes/routes";
 import headerTheme from "../../themes/Header/theme";
 
 const CONSTANTS = {
