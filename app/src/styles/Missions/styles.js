@@ -1,5 +1,5 @@
-import missionTheme from "@/themes/Missions/theme";
-import ICONS from "@/components/icons/icons";
+import missionsTheme from "../../themes/Missions/theme"
+import ICONS from "../../components/icons/icons"
 
 const missionsStyles = {
     main:{

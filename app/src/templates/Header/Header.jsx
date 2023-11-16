@@ -6,7 +6,7 @@ import NavBarLink from './NavBarLink'
 import SideButton from './SideButton/SideButton'
 import headerStyles from '../../styles/Header/styles'
 import ICONS from '../../components/icons/icons'
-import CONSTANTS from '../../constants/Header/constants'
+import CONSTANTS from '../../constants/header/constants'
 import ROUTES from '../../routes/routes'
 import Avatar from './Avatar/Avatar'
 

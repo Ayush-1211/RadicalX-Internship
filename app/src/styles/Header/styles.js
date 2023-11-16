@@ -1,4 +1,4 @@
-import headerTheme from "@/themes/Header/theme";
+import headerTheme from "../../themes/Header/theme";
 
 const headerStyles = {
     navBarStyles: {

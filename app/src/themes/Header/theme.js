@@ -10,4 +10,5 @@ const headerTheme = {
         coinsBackground: '#181A20'
     }
 }
+
 export default headerTheme

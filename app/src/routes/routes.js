@@ -2,6 +2,6 @@ const ROUTES = {
     HOME: '/',
     MISSIONS: '/missions',
     LEADERBOARD: '/leaderboard',
-    REWARDS: '/rewards',
+    REWARDS: '/rewards'
 }
 export default ROUTES

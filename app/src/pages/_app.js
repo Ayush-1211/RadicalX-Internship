@@ -1,12 +1,14 @@
 import '../styles/globals.css'
-import Header from '@/templates/Header'
+import Header from '../templates/header'
 
-function Myapp({Component, pageProps}) {
-    return (
-        <>
-          <Header />
-          <Component {...pageProps} />
-        </>
-    )
+
+function MyApp({ Component, pageProps }) {
+  return (
+    <>
+      <Header />
+      <Component {...pageProps} />
+    </>
+  )
 }
-export default Myapp
+
+export default MyApp
